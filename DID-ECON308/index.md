@@ -4,14 +4,15 @@ layout: default
 ---
 
 📁 [Original Repo](https://github.com/vaughnmitchell13/econ308-proj)\
-📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/ECON308-Final%20Paper.pdf)
+📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/ECON308-Final%20Paper.pdf)\
+🗣 [Final Presentation](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/DID_Congestion_Relief_Zone.pdf)
 
 ## 💡 **Abstract**
 On January 5th, 2025, New York City implemented a Congestion Relief Zone that tolls drivers
 entering Manhattan south of 60th Street. The policy decision was intended to reduce traffic and
 offer new revenue streams for the MTA to improve subways; as of FQ2025, the policy has
-brought in nearly $160 million in revenue. While the status of the policy—in just three
-months—seems precarious with the Trump administration calling the tolls illegal, there are
+brought in nearly $160 million in revenue. While the status of the policy — in just three
+months — seems precarious with the Trump administration calling the tolls illegal, there are
 already valuable implications about the effects of this policy, namely on subway ridership. This
 research project explores the change in subway ridership for stations inside and outside the zone,
 before and after congestion pricing went into effect. Accordingly, we chose a difference-indifferences design to analyze subway ridership across stations in Manhattan. The State of New
@@ -19,8 +20,8 @@ York offers data on MTA subway ridership in both 2024 and 2025, all of which was
 a daily, by-station panel structure. Our first model utilizes simple OLS with both dummy
 variables (time and treatment) as well as the interaction term; our second model clusters the
 stations by standard error; and our third model, arguably the most improved and actionable,
-controls for time-invariant characteristics like holidays or construction as well as stationinvariant characteristics like location and inherent busyness. From our fixed-effects model—the
-strongest of the three—there indicates a predicted increase in 641 daily riders for stations inside
+controls for time-invariant characteristics like holidays or construction as well as station invariant characteristics like location and inherent busyness. Our fixed-effects model — the
+strongest of the three — predicts an increase in 641 daily riders for stations inside
 the congestion zone compared to stations outside the zone.
 
 ## 👾 **Data**
@@ -39,8 +40,9 @@ the congestion zone compared to stations outside the zone.
   - Both tables were exported for final revisions in [Data-Postprocessing.ipynb](./Data-Postprocessing.ipynb); the final datasets can be found [here](./data/).
   - The map below, although not exactly our intention with a difference-in-differences analysis, is still valuable to see the change in average ridership from 2024 to 2025.
 
-## 🗒 **Further Documentation**
-  - Data cleaning and management notebooks can be found in the original repo, linked above. 
+## 🗒 **Further Notes**
+  - Data cleaning and management notebooks can be found in the original repo, linked above.
+  - This repo does *not* document all steps taken for the difference-in-differences analysis. See the final paper or presentation, linked above.
 
 
 ![Figure 1](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/DID-ECON308/parallel_trends.png)
