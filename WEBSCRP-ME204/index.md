@@ -1,8 +1,3 @@
----
-layout: default
-title: ME204 Webscraping Report
----
-
 # Webscraper for edX Courses
 
 ## ℹ️ Introduction
