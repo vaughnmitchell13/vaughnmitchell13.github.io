@@ -1,4 +1,8 @@
-# Webscraper for edX Courses
+---
+title: Webscraper for edX Courses
+layout: default
+---
+
 📁 [Original Repo](https://github.com/vaughnmitchell13/edX-webscraper)
 
 ## ℹ️ Introduction
