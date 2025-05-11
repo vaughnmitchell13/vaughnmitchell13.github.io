@@ -1,4 +1,8 @@
-# Subway Ridership and NYC's Congestion Relief Zone - Preliminary Steps 
+---
+title: Subway Ridership and NYC's Traffic Congestion Zone
+layout: default
+---
+
 📁 [Original Repo](https://github.com/vaughnmitchell13/econ308-proj)\
 📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/ECON308-Final%20Paper.pdf)
 
