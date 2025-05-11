@@ -1,6 +1,6 @@
 # Subway Ridership and NYC's Congestion Relief Zone - Preliminary Steps 
-📁 [Original Repo](https://github.com/vaughnmitchell13/econ308-proj)
-📝 [Final Paper](
+📁 [Original Repo](https://github.com/vaughnmitchell13/econ308-proj)\
+📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/blob/main/DID-ECON308/ECON308-Final%20Paper%20(2).pdf)
 
 ## 💡 **Abstract**
 On January 5th, 2025, New York City implemented a Congestion Relief Zone that tolls drivers
@@ -35,5 +35,6 @@ the congestion zone compared to stations outside the zone.
   - Both tables were exported for final revisions in [Data-Postprocessing.ipynb](./Data-Postprocessing.ipynb); the final datasets can be found [here](./data/).
   - The map below, although not exactly our intention with a difference-in-differences analysis, is still valuable to see the change in average ridership from 2024 to 2025.
 
-![Figure 1](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/DID-ECON308/Layout.png)
+![Figure 1](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/DID-ECON308/parallel_trends.png)
+![Figure 2](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/DID-ECON308/Layout.png)
 
