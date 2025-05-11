@@ -1,6 +1,6 @@
 # Subway Ridership and NYC's Congestion Relief Zone - Preliminary Steps 
 📁 [Original Repo](https://github.com/vaughnmitchell13/econ308-proj)\
-📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/ECON308-Final%20Paper%20(2).pdf)
+📝 [Final Paper](https://github.com/vaughnmitchell13/vaughnmitchell13.github.io/raw/main/DID-ECON308/ECON308-Final%20Paper%20.pdf)
 
 ## 💡 **Abstract**
 On January 5th, 2025, New York City implemented a Congestion Relief Zone that tolls drivers
