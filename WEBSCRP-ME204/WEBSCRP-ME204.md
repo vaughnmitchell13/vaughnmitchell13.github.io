@@ -16,6 +16,12 @@ pip install -r requirements.txt
 4. Go through all the Jupyter notebooks from [this repo](https://github.com/vaughnmitchell13/edX-webscraper/tree/main/myproject/notebooks) and run them, step by step. There may be some path misalignments so you can change those in another Python cell accordingly.
 
 ## 📊 Results
+![Figure 1](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/WEBSCRP-ME204/figures1.png)
+***
+![Figure 3](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/WEBSCRP-ME204/figures3.png)
+***
+![Figure 2](https://raw.githubusercontent.com/vaughnmitchell13/vaughnmitchell13.github.io/main/WEBSCRP-ME204/figures2.png)
+
 
 
 ## 🤖 AI Acknowledgement
